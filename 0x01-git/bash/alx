@@ -2,9 +2,12 @@
  school
 =======
 
-<ALX
+ALX
 echo ALX School is so cool!
-=======
 echo ALX School
+<<<<<<< HEAD
 >>>>>>> update_script
 >>>>>>> 4ba926ce47085456e154aa5d41466256c041c67a
+=======
+update_script
+>>>>>>> b51931b3b046fdd65d251ca1366eba589d808c0a
